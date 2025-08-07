@@ -4,7 +4,7 @@ Proof-of-concept code following the presentation of "Parasitic Storage: Building
 
 ## Description
 
-- RABID: Redundant Array of (Buckets of) Independent Data (i.e., RAID on exposed S3 buckets)
+- RABID: Redundant Array of (Buckets of) Independent Data
 - rabidfs: a filesystem implementing RABID via FUSE
 
 ## Getting started
